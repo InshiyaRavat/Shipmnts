@@ -10,7 +10,7 @@ app.use(cors({
     methods : ['GET','POST','PUT','DELETE']
 }))
 
-const port = process.env.port || 5000
+const port = 5000
 mongoose.connect(process.env.MONGODB_URI).then(console.log("db connected")).catch("db not connected")
 
 app.listen(port,()=>{
