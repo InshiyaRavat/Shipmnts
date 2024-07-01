@@ -1,0 +1,4 @@
+companyName,companyAddress,companyPhone,companyEmail,companyWebsite,numEmployees,foundedDate,industryType,contactName,contactEmail,contactPhone,dateOfBirth,contactType,companyId
+Company A,123 Main St,123-456-7890,info@companyA.com,www.companyA.com,100,01-01-2000,Technology,John Doe,john.doe@companyA.com,123-456-7890,15-06-1980,Primary,ObjectId_of_Company_A
+Company B,456 Elm St,456-789-0123,info@companyB.com,www.companyB.com,50,15-05-1995,Finance,Jane Smith,jane.smith@companyB.com,456-789-0123,20-09-1992,Secondary,ObjectId_of_Company_B
+Company C,789 OakSt,789-012-3456,info@companyC.com,www.companyC.com,200,30-11-2010,Healthcare,Michael Johnson,michael.johnson@companyC.com,789-012-3456,10-03-1975,Other,ObjectId_of_Company_C
